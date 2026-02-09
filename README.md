@@ -707,6 +707,12 @@ These configs work for my workflow. You should:
 
 ---
 
+## 🧰 Troubleshooting
+
+- [Permission issues during deploy scripts](docs/ops/permission-troubleshooting.md)
+
+---
+
 ## 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=affaan-m/everything-claude-code&type=Date)](https://star-history.com/#affaan-m/everything-claude-code&Date)
